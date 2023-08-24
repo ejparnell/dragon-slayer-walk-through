@@ -62,7 +62,7 @@ A **wireframe** is an image that sketches out the layout of major pieces of
 content within a page, without all of the fully-rendered detail that might be
 present in an illustration.
 
-![Example Wireframe](assets/220px-Profilewireframe.png)
+![Example Wireframe](assets/220px-Profilewireframe%20(1).png)
 
 Although making detailed, feature-rich wireframes is typically the province of
 the UX/UI designer, even developers can produce basic layout sketches, and these
@@ -70,7 +70,7 @@ sketches are extremely useful in the planning process as a tool to clarify and
 codify your vision. They also segue easily into mocking up a site with boxes, so
 that you know how to actually build your layout.
 
-![Example Wireframe to Mockup](assets/wireframe-to-mockup.jpg)
+![Example Wireframe to Mockup](assets/dragon-slayer-wireframe.png)
 
 ### Wireframes vs Mockups
 
